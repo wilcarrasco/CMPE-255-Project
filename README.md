@@ -41,3 +41,8 @@ You will need to create and maintain a public github repository of your project.
 2. Binary files (e.g., executables, DLLs, Class files) or other components necessary to run your program.
 3. Readme file containing instructions on how to compile, install, and/or run your program.
 4. A small sample of the test data that can be used for evaluation of your system, in addition to the full dataset you used in your “production
+
+Data Set
+------------
+[Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
+[Download Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip)
