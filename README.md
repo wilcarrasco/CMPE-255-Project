@@ -44,5 +44,5 @@ You will need to create and maintain a public github repository of your project.
 
 Data Set
 ------------
-[Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
+[Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)  
 [Download Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip)
