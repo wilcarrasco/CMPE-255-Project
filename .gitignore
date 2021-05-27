@@ -1,6 +1,6 @@
 # VS Code
-.vscode
-.code-workspace
+*.vscode
+*.code-workspace
 
 # data file
 household_power_consumption.txt
