@@ -4,3 +4,6 @@
 
 # data file
 household_power_consumption.txt
+
+# generated files
+*.dat
