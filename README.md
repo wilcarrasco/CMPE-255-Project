@@ -46,3 +46,13 @@ Data Set
 ------------
 [Individual household electric power consumption Data Set](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)  
 [Download Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_consumption.zip)
+
+Running The Program
+--------------------
+Download both Jupyter Notebooks:
+[Ocho_Project](https://github.com/wilcarrasco/CMPE-255-Project/blob/main/Ocho_Project.ipynb)
+[Clustering](https://github.com/wilcarrasco/CMPE-255-Project/blob/main/clustering.ipynb)
+
+Download the data set file and extract the contents in the same directory as the downloaded notebooks
+
+Run each cell in Ocho_Project.ipynb and then each cell in clustering.ipynb
